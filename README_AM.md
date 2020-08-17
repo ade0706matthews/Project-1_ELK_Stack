@@ -3,7 +3,7 @@
 The files in this repository were used to configure the network depicted below.
 ## Links to Project Images
 # Topology 
-![Diagram](https://github.com/ade0706matthews/Project-1_ELK_Stack/tree/master/Diagrams)
+![Diagram](https://github.com/ade0706matthews/Project-1_ELK_Stack/blob/master/Diagrams/Red%20Team%20Virtual%20Network.png)
 
 # Project screenshots (Google Drive) 
 ![Project_screenshot] https://github.com/ade0706matthews/Project-1_ELK_Stack/tree/master/Ansible
